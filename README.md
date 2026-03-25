@@ -1,20 +1,19 @@
 # Hello, I'm Lucas Sampaio 👋
-
-_Full Stack Developer • Mobile Developer • QA Automation_
+_Backend Developer • C# & .NET • Full Stack_
 
 ---
 
-I'm passionate about technology and creating modern, scalable solutions. Here you'll find my projects, experiments, and contributions to the tech community :)
+I'm passionate about technology and building robust, scalable backend solutions. Here you'll find my projects, experiments, and contributions to the tech community :)
 
 ---
 
 ### 🧠 About Me
 
-* 🔭 Full Stack & Mobile Developer
-* 💻 Working with C#, .NET, React, Flutter, Node.js, Python
-* 🧪 QA Automation enthusiast
-* 📱 Building mobile applications with Flutter
-* ☁️ Experience with Supabase, AWS, and cloud technologies
+* 🔭 Backend Developer focused on C# & .NET
+* 💻 Working with ASP.NET Core, Entity Framework, Clean Architecture and DDD
+* 🌐 Full Stack experience with React, Next.js and Flutter
+* 🧪 QA background — I write code already thinking about testability and quality
+* ☁️ Experience with Azure, SQL Server, Docker and cloud technologies
 * 🎯 Always learning and improving
 
 ---
@@ -22,9 +21,7 @@ I'm passionate about technology and creating modern, scalable solutions. Here yo
 ### 💻 Tech Stack Highlights
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,nodejs,python,typescript,supabase,aws,docker,git" height="50" />
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,sqlserver,react,nextjs,flutter,typescript,docker,git,python,nodejs" height="50" />
 </div>
 
 ---
@@ -32,36 +29,27 @@ I'm passionate about technology and creating modern, scalable solutions. Here yo
 ### 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lucasampaio10&locale=pt_BR&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" height="180" alt="streak graph" />
-
+  <img src="https://streak-stats.demolab.com?user=lucasampaio10&locale=pt_BR&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" height="180" alt="streak graph" />
 </div>
 
 ---
-
 
 ### 📞 Let's Connect
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/lucassampaio-dev/">
-
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-
-</a>
-
-<a href="mailto:lukasrocha0402@gmail.com">
-
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-
-</a>
-
+  <a href="https://www.linkedin.com/in/lucassampaio-dev/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:lukasrocha0402@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://portifolio-lucas-rouge.vercel.app/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lucasampaio10&color=B66DFF&style=flat-square" alt="Profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=lucasampaio10&color=B66DFF&style=flat-square" alt="Profile views" />
 </div>
